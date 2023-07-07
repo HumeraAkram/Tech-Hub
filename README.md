@@ -10,6 +10,8 @@ Welcome to the Microsoft Tech Hub repository! Here you will find task-focused sa
 
 4. VS Code: In this directory, you will find resources and extensions related to Visual Studio Code (VS Code), a lightweight but powerful source code editor. Enhance your development experience with the provided tools and extensions.
 
-### Teams toolkit
-
-The [Teams Toolkit](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals) is an extension on Visual Studio Code and Visual Studio. It enable Teams developers to create and deploy Teams apps with integrated identity, access to cloud storage, data from Microsoft Graph, and other services in Azure and M365 with a "zero-configuration" approach to the developer experience. And Sample Apps are provided in Teams Toolkit. Download and try it by today! Learn more about Teams Toolkit.
+### Samples
+| Sample Name | Description | Manifest |
+|-------------|-------------|----------|
+|Post message   | Auto post a message on a channel message | [Post message ](https://github.com/HumeraAkram/Tech-Hub/blob/main/Samples/Post%20messge/Post%20messge%20(2).zip) |
+| App Hello world     | say hello | [Say Hello ](https://github.com/HumeraAkram/Tech-Hub/blob/main/Samples/hello%20msg/app-hello-world.zip) |
