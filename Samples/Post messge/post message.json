@@ -1,1 +1,28 @@
-{"$schema":"https://developer.microsoft.com/en-us/json-schemas/teams/v1.16/MicrosoftTeams.schema.json","version":"1.0.0","manifestVersion":"1.16","id":"93040482-f658-4dde-b3c0-0f8878a169cb","packageName":"com.package.name","name":{"short":"Post messge","full":""},"developer":{"name":"RevelTek","mpnId":"","websiteUrl":"https://reveltek.com/","privacyUrl":"https://focushive.sharepoint.com/:w:/r/sites/RevelTek/Shared%20Documents/General/Terms/Document1.docx?d=wf3b826af25034df6b549b03ee94cc0de&csf=1&web=1&e=xBvwl0","termsOfUseUrl":"https://focushive.sharepoint.com/:w:/r/sites/RevelTek/Shared%20Documents/General/Terms/Document.docx?d=wa0512b12ad164e2680ebebc7d0e9f3cc&csf=1&web=1&e=Tb3dwt"},"description":{"short":"Post message can communicate in teams","full":"Post message is a powerful communication app designed to keep teams connected and informed within Microsoft Teams. With instant notifications, customized message delivery, and seamless workflow integration, TeamNotifier streamlines communication, enhances collaboration, and ensures important updates reach the right audience. Administrators have centralized control, and users can prioritize messages for urgent tasks. Stay connected, stay informed, and drive productivity with TeamNotifier in Microsoft Teams."},"icons":{"outline":"outline.png","color":"color.png"},"accentColor":"#FFFFFF","validDomains":[]}
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
+    "version": "1.0.0",
+    "manifestVersion": "1.16",
+    "id": "93040482-f658-4dde-b3c0-0f8878a169cb",
+    "packageName": "com.package.name",
+    "name": {
+      "short": "Post message",
+      "full": ""
+    },
+    "developer": {
+      "name": "RevelTek",
+      "mpnId": "",
+      "websiteUrl": "https://reveltek.com/",
+      "privacyUrl": "https://focushive.sharepoint.com/:w:/r/sites/RevelTek/Shared%20Documents/General/Terms/Document1.docx?d=wf3b826af25034df6b549b03ee94cc0de&csf=1&web=1&e=xBvwl0",
+      "termsOfUseUrl": "https://focushive.sharepoint.com/:w:/r/sites/RevelTek/Shared%20Documents/General/Terms/Document.docx?d=wa0512b12ad164e2680ebebc7d0e9f3cc&csf=1&web=1&e=Tb3dwt"
+    },
+    "description": {
+      "short": "Post message can communicate in teams",
+      "full": "Post message is a powerful communication app designed to keep teams connected and informed within Microsoft Teams. With instant notifications, customized message delivery, and seamless workflow integration, TeamNotifier streamlines communication, enhances collaboration, and ensures important updates reach the right audience. Administrators have centralized control, and users can prioritize messages for urgent tasks. Stay connected, stay informed, and drive productivity with TeamNotifier in Microsoft Teams."
+    },
+    "icons": {
+      "outline": "outline.png",
+      "color": "color.png"
+    },
+    "accentColor": "#FFFFFF",
+    "validDomains": []
+  }
